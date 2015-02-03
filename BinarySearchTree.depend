@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1423003942 source:/home/aj/CodeBlocksProjects/BinarySearchTree/BinarySearchTree.cpp
+	"BinarySearchTree.h"
+
+1423004152 /home/aj/CodeBlocksProjects/BinarySearchTree/BinarySearchTree.h
+	"stdlib.h"
+	<iostream>
+	<iomanip>
+
+1423004238 source:/home/aj/CodeBlocksProjects/BinarySearchTree/main.cpp
+	"BinarySearchTree.h"
+
